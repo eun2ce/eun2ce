@@ -1,4 +1,4 @@
-<img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
+<img src="https://render.gitanimals.org/lines/eun2ce?pet-id=1" width="1000" height="120"/>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=6878a0&text=eun2ce&fontColor=FFFFFF)
 
